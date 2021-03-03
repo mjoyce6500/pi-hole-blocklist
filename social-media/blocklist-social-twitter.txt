@@ -9,7 +9,7 @@
 0.0.0.0 twitter.com
 0.0.0.0 www.twitter.com
 0.0.0.0 tweetdeck.twitter.com
-# 0.0.0.0 api.twitter.com  commenting to test on iPhone
+# 0.0.0.0 api.twitter.com   needed for iPhone feed
 0.0.0.0 publish.twitter.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 help.twitter.com
@@ -17,6 +17,6 @@
 0.0.0.0 platform.twitter.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 support.twitter.com
-0.0.0.0 video.twimg.com
+# 0.0.0.0 video.twimg.com  needed for iPhone content
 0.0.0.0 abs.twimg.com
 0.0.0.0 p.twitter.com

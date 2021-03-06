@@ -6,11 +6,11 @@
 # License: MIT License
 # ----------------------------------------------------------
 
-0.0.0.0 twitter.com
-0.0.0.0 www.twitter.com
+# 0.0.0.0 twitter.com Using Twitter on laptop
+# 0.0.0.0 www.twitter.com Using Twitter on laptop
 0.0.0.0 tweetdeck.twitter.com
 # 0.0.0.0 api.twitter.com   needed for iPhone feed
-0.0.0.0 publish.twitter.com
+# 0.0.0.0 publish.twitter.com Using Twitter on laptop
 0.0.0.0 analytics.twitter.com
 0.0.0.0 help.twitter.com
 0.0.0.0 mobile.twitter.com

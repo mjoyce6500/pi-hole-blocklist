@@ -23,13 +23,13 @@ de-de.facebook.com
 star.c10r.facebook.com
 star-mini.c10r.facebook.com
 # fbcdn.net
-0.0.0.0 scontent-msp1-1.xx.fbcdn.net
-0.0.0.0 video-msp1-1.xx.fbcdn.net
-0.0.0.0 static.xx.fbcdn.net
+scontent-msp1-1.xx.fbcdn.net
+video-msp1-1.xx.fbcdn.net
+static.xx.fbcdn.net
 # connect.facebook.net
-0.0.0.0 instagram.c10r.facebook.com
-0.0.0.0 graph.facebook.com
-0.0.0.0 an.facebook.com
-0.0.0.0 ads.facebook.com
-0.0.0.0 edge-mqtt.facebook.com
+instagram.c10r.facebook.com
+graph.facebook.com
+an.facebook.com
+ads.facebook.com
+edge-mqtt.facebook.com
 # fupload.facebook.com

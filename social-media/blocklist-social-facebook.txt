@@ -31,5 +31,5 @@ instagram.c10r.facebook.com
 graph.facebook.com
 an.facebook.com
 ads.facebook.com
-edge-mqtt.facebook.com
+# edge-mqtt.facebook.com
 # fupload.facebook.com

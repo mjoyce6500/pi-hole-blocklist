@@ -28,7 +28,7 @@ video-msp1-1.xx.fbcdn.net
 static.xx.fbcdn.net
 # connect.facebook.net
 instagram.c10r.facebook.com
-graph.facebook.com
+# graph.facebook.com
 an.facebook.com
 ads.facebook.com
 # edge-mqtt.facebook.com

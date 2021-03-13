@@ -20,8 +20,8 @@ pixel.facebook.com
 staticxx.facebook.com
 fr-fr.facebook.com
 de-de.facebook.com
-star.c10r.facebook.com
-star-mini.c10r.facebook.com
+# star.c10r.facebook.com
+# star-mini.c10r.facebook.com
 # fbcdn.net
 scontent-msp1-1.xx.fbcdn.net
 video-msp1-1.xx.fbcdn.net
